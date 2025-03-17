@@ -31,3 +31,6 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+
+# Ignore Agent Checkpoints
+2022b_SIMULATION_FILE/Agents_checkpoints/
